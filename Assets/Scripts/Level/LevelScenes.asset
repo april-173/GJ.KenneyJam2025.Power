@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6859e25284fbf48a3cafc619223910, type: 3}
+  m_Name: LevelScenes
+  m_EditorClassIdentifier: 
+  levelScenesName:
+  - LevelSelect
+  - Level01
+  - Level02
+  - Level03
+  - Level04
+  - Level05
+  - Level06
+  - Level07
+  - Level08
+  - Level09
+  - Level10
+  - Level11
+  - Level12
+  - Level13
+  - Level14
+  - Level15
+  - Level16
+  - Level17
+  - Level18
+  - End
